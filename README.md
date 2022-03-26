@@ -1,5 +1,5 @@
 # DiceGame
 
-How to Play
+### How to Play
 Double Click the exe file
 
